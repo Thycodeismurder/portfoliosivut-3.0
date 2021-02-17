@@ -25,7 +25,7 @@
     "start-client": "react-scripts start",
     "start": "npm install -g nodemon && npm install && yarn run build && (cd ../../express-static-server/server && yarn start)",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "react-scripts test1",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
